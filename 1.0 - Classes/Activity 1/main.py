@@ -11,7 +11,7 @@ player_characters = [
 
 # TODO: Create an instance of Weapon with random damage between 12 and 15
 weapons = [
-    Weapon("Axes of the Seventh Sanctum", 'Axe', random.randint(12, 15)),
+    Weapon("Axe of the Seventh Sanctum", 'Axe', random.randint(12, 15)),
     Weapon('Blizzard Striker', 'Sword', random.randint(12, 15)),
     Weapon('HEX Laser Blaster', 'Gun', random.randint(12, 15)),
     Weapon('Ultimate Ban Hammer', 'Hammer', random.randint(12, 15))
