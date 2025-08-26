@@ -5,4 +5,4 @@ def greet_person(**kwargs):
         print(f"You are {kwargs['age']} years old.")
 
 # Print name and age but not city
-greet_person(name="Bob", age=30, city="New York")
+greet_person(name="Victor", age=16, city="Bunda Town")
